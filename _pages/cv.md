@@ -19,7 +19,7 @@ Work experience
 ======
 * PhD Researcher, SDU Center for Industrial Software, University of Southern Denmark
   * Research in artificial intelligence, information retrieval, dataset discovery, RAG, and knowledge graphs
-  * Teaching in artificial intelligence and supervision of student projects
+  * Teaching Assistant for the Artificial Intelligence course and supervisor of student projects
 * Software and DevOps Engineer, Blue Reply
 
 Skills
