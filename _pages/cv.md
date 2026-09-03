@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD researcher in Artificial Intelligence and Information Retrieval, University of Southern Denmark
+* MSc in Computer Science and Engineering, Politecnico di Milano, 2025
+* BSc in Computer and Automation Engineering, Marche Polytechnic University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* PhD Researcher, SDU Center for Industrial Software, University of Southern Denmark
+  * Research in artificial intelligence, information retrieval, dataset discovery, RAG, and knowledge graphs
+  * Teaching in artificial intelligence and supervision of student projects
+* Software and DevOps Engineer, Blue Reply
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Artificial intelligence, machine learning, and natural language processing
+* Information retrieval, data management, and data mining
+* Retrieval-augmented generation and knowledge graphs
+* Software engineering, DevOps, and good coding practices
+* Academic writing and data analytics
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Mentoring
 ======
-* Currently signed in to 43 different slack teams
+* Mentor, Danish Data Science Academy mentoring programme, 2026/2027
