@@ -13,12 +13,6 @@ redirect_from:
 
 I am part of the [AI & Machine Learning Lab](https://aiml-sdu.github.io/) at the SDU Center for Industrial Software, Maersk Mc-Kinney Moller Institute. I study how we can make data easier to discover and AI-generated results more faithful, transparent, and auditable.
 
-<div class="profile-actions">
-  <a href="{{ '/publications/' | relative_url }}">Publications</a>
-  <a href="{{ '/cv/' | relative_url }}">View CV</a>
-  <a href="mailto:{{ site.author.email }}">Get in touch</a>
-</div>
-
 ## Research interests
 
 My work connects dataset search, retrieval-augmented generation, and knowledge graphs. I focus on understanding where retrieved evidence comes from, how it shapes an answer, and how to keep AI systems transparent and auditable.
