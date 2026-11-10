@@ -1,6 +1,7 @@
 ---
 title: "The Open-Box Fallacy: Why AI Deployment Needs a Calibrated Verification Regime"
 collection: publications
+authors: "Phongsakon Mark Konrad, Tim Lukas Adam, Ane Cathrine Holst Merrild, Riccardo Terrenzi, Rebecca De Rosa, Toygar Tanyel, and Serkan Ayvaz"
 category: manuscripts
 permalink: /publication/2026-open-box-fallacy
 date: 2026-05-11

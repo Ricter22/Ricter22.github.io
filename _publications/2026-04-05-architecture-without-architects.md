@@ -1,6 +1,7 @@
 ---
 title: "Architecture Without Architects: How AI Coding Agents Shape Software Architecture"
 collection: publications
+authors: "Phongsakon Mark Konrad, Tim Lukas Adam, Riccardo Terrenzi, and Serkan Ayvaz"
 category: conferences
 permalink: /publication/2026-architecture-without-architects
 date: 2026-04-05

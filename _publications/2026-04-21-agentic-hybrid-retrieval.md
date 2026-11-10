@@ -1,6 +1,7 @@
 ---
 title: "A Reference Architecture for Agentic Hybrid Retrieval in Dataset Search"
 collection: publications
+authors: "Riccardo Terrenzi, Phongsakon Mark Konrad, Tim Lukas Adam, and Serkan Ayvaz"
 category: conferences
 permalink: /publication/2026-agentic-hybrid-retrieval
 date: 2026-04-21

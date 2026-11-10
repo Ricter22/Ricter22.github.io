@@ -1,6 +1,8 @@
 ---
 title: "Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG"
 collection: publications
+authors: "Riccardo Terrenzi, Maximilian von Zastrow, and Serkan Ayvaz"
+featured: true
 category: conferences
 permalink: /publication/2026-neighborhoods-matter
 date: 2026-05-14

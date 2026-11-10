@@ -1,0 +1,17 @@
+<article class="publication-entry">
+{% if include.heading == 'h3' %}
+<h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+{% else %}
+<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+{% endif %}
+<p class="publication-authors">{{ post.authors | escape | replace: 'Riccardo Terrenzi', '<strong>Riccardo Terrenzi</strong>' }}</p>
+<p class="publication-venue">{{ post.venue }} &middot; {{ post.date | date: '%Y' }}{% if post.category == 'manuscripts' %} &middot; Preprint{% endif %}</p>
+<div class="archive__item-excerpt">{{ post.excerpt | markdownify }}</div>
+<div class="paper-actions">
+{% if post.paperurl %}<a href="{{ post.paperurl }}" aria-label="Read {{ post.title | escape }}">Paper &nearr;</a>{% endif %}
+{% if post.codeurl %}<a href="{{ post.codeurl }}">Code &nearr;</a>{% endif %}
+{% if post.slidesurl %}<a href="{{ post.slidesurl }}">Slides &nearr;</a>{% endif %}
+{% if post.bibtexurl %}<a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
+</div>
+{% if post.citation %}<details><summary>Citation<span class="sr-only"> for {{ post.title }}</span></summary><p>{{ post.citation }}</p></details>{% endif %}
+</article>

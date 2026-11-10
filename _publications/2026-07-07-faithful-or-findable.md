@@ -1,6 +1,8 @@
 ---
 title: "Faithful or Findable? Evaluating LLM-Generated Metadata for RDF Dataset Search"
 collection: publications
+authors: "Riccardo Terrenzi and Serkan Ayvaz"
+featured: true
 category: conferences
 permalink: /publication/2026-faithful-or-findable
 date: 2026-07-07
